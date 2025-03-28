@@ -1,0 +1,3 @@
+1. Learn Git Basics
+2. Implement To-Do List
+3. Test and Desploy Project 
